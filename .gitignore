@@ -1,0 +1,28 @@
+# Build directories
+Builds/*/build/
+Builds/*/intermediate/
+
+# IDE files
+.vscode/
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.temp
+
+# Binary files
+*.so
+*.dll
+*.exe
+*.a
+*.lib
+
+# JUCE specific
+JuceLibraryCode/
